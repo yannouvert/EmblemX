@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ressources.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,7 +90,7 @@
   "lastOpenFiles": [
     "Ressources.md",
     "ScreenLoad.md",
-    "ScreenTitle.md",
-    "ScreenOptions.md"
+    "ScreenOptions.md",
+    "ScreenTitle.md"
   ]
 }
